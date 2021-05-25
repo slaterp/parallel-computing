@@ -5,3 +5,6 @@
 /JoinExample.class
 /Runner3.class
 /Runner4.class
+/DaemonExample.class
+/DaemonWorker.class
+/NormalWorker.class
