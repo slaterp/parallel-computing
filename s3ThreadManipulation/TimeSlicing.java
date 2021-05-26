@@ -1,3 +1,4 @@
+package s3ThreadManipulation;
 /*
  * Basic example of Time-Slicing algorithm
  * 

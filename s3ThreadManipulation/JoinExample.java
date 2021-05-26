@@ -1,3 +1,4 @@
+package s3ThreadManipulation;
 /*
  * Thread.join() method forces the program to wait for the thread to complete execution before continuing with the program.
  * In this example the program must wait for the full execution of both runners before printing "Threads finished!".
