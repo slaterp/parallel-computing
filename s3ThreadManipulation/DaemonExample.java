@@ -1,3 +1,4 @@
+package s3ThreadManipulation;
 
 /*
  * This program is an illustrative example of the difference between a Daemon thread and Main (worker) thread.
